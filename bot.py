@@ -11,7 +11,7 @@ intents.members = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 BILOL_ID = 1271160602059870320
-GENEL_KANAL_ID = 1573026923544842252
+GENEL_KANAL_ID = 1529255697756324001
 
 aktif_mesajlari = [
     "Güneş doğdu, çiçekler açtı... Şaka şaka Bilol çevrimiçi olmuş, herkes ilgi göstermeye hazırlansın! ✨",
